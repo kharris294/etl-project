@@ -1,6 +1,8 @@
 ETL Project Guide
 
-Hypothesis (i.e., topic we investigated): Our group predicted that there would be a strong, negative correlation between COVID-19 case numbers, traffic, and air pollution in Ohio. We broke this data down on a county level within the state of Ohio.
+Hypothesis/Topic: Our group predicted that there would be a strong, negative correlation between COVID-19 case numbers, traffic, and air pollution in Ohio. We broke this data down on a county level within the state of Ohio.
+
+SUMMARY
 
 Traffic Data:
 
